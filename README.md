@@ -1,7 +1,7 @@
 #  Langchain AI Search Agent
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 [![Maintaner](https://img.shields.io/static/v1?label=Andriy%20Gulak&message=Maintainer&color=red)](mailto:andriy.gulak@extrawest.com)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/extrawest/langchain_gen_ai_agent_agent/issues)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/extrawest/langchain_gen_ai_agent/issues)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## PROJECT INFO
